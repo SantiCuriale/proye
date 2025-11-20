@@ -1,0 +1,8 @@
+inicio
+leer (@,b);
+leer (b,c)
+resultado := (a + b;
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc := a + (b-2);
+escribir (cc, a+4)
+z := 10 - d;             
+fin
