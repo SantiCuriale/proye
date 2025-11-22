@@ -1,0 +1,9 @@
+inicio
+leer (a, b);
+suma := a + b;
+escribir (suma, 100);
+variableConUnNombreExtremadamenteLargoQueSuperaLosTreintaYDosCaracteres := 1;
+resultado := variableNoDeclarada + 10;
+cuenta := 50 $ 5;
+errorSintactico := (4 + 5
+fin
