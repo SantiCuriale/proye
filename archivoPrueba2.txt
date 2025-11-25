@@ -4,6 +4,6 @@ suma := a + b;
 escribir (suma, 100);
 variableConUnNombreMuuuuuuuuuuuuuuyLargoQueSuperaLosTreintaYDosCaracteres := 1;
 resultado := variableNoDeclarada + 10;
-cuenta := 50 $ 5;
 errorSintactico := (4 + 5
+cuenta := 50 $ 5;
 fin
